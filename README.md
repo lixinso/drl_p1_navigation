@@ -63,110 +63,51 @@ UPDATE_EVERY = 4        # how often to update the network
 ### Result
 
 Episode 10 	 Average Score: -0.30
+
 Episode 20 	 Average Score: -0.05
+
 Episode 30 	 Average Score: -0.07
+
 Episode 40 	 Average Score: 0.10
+
 Episode 50 	 Average Score: 0.14
-Episode 60 	 Average Score: 0.20
-Episode 70 	 Average Score: 0.20
-Episode 80 	 Average Score: 0.26
-Episode 90 	 Average Score: 0.40
-Episode 100 	 Average Score: 0.53
-Episode 110 	 Average Score: 0.79
-Episode 120 	 Average Score: 1.15
-Episode 130 	 Average Score: 1.36
+
+...
+
 Episode 140 	 Average Score: 1.69
-Episode 150 	 Average Score: 2.16
-Episode 160 	 Average Score: 2.39
-Episode 170 	 Average Score: 2.78
-Episode 180 	 Average Score: 3.10
-Episode 190 	 Average Score: 3.52
-Episode 200 	 Average Score: 3.97
-Episode 210 	 Average Score: 4.14
-Episode 220 	 Average Score: 4.44
-Episode 230 	 Average Score: 4.88
-Episode 240 	 Average Score: 5.06
-Episode 250 	 Average Score: 5.04
-Episode 260 	 Average Score: 5.35
-Episode 270 	 Average Score: 5.67
-Episode 280 	 Average Score: 6.04
+
+...
+
 Episode 290 	 Average Score: 6.15
-Episode 300 	 Average Score: 6.13
-Episode 310 	 Average Score: 6.50
-Episode 320 	 Average Score: 6.80
-Episode 330 	 Average Score: 7.14
-Episode 340 	 Average Score: 7.43
-Episode 350 	 Average Score: 7.78
-Episode 360 	 Average Score: 8.11
-Episode 370 	 Average Score: 8.14
-Episode 380 	 Average Score: 8.28
-Episode 390 	 Average Score: 8.52
-Episode 400 	 Average Score: 8.93
-Episode 410 	 Average Score: 9.22
-Episode 420 	 Average Score: 9.29
-Episode 430 	 Average Score: 9.47
-Episode 440 	 Average Score: 9.62
-Episode 450 	 Average Score: 9.91
+
+...
+
 Episode 460 	 Average Score: 9.92
-Episode 470 	 Average Score: 10.19
-Episode 480 	 Average Score: 10.35
-Episode 490 	 Average Score: 10.51
-Episode 500 	 Average Score: 10.42
-Episode 510 	 Average Score: 10.41
-Episode 520 	 Average Score: 10.69
-Episode 530 	 Average Score: 10.60
-Episode 540 	 Average Score: 10.86
-Episode 550 	 Average Score: 10.81
-Episode 560 	 Average Score: 11.23
-Episode 570 	 Average Score: 11.31
-Episode 580 	 Average Score: 11.54
-Episode 590 	 Average Score: 11.60
-Episode 600 	 Average Score: 11.90
-Episode 610 	 Average Score: 12.10
-Episode 620 	 Average Score: 12.10
-Episode 630 	 Average Score: 12.37
-Episode 640 	 Average Score: 12.12
-Episode 650 	 Average Score: 12.15
-Episode 660 	 Average Score: 11.98
-Episode 670 	 Average Score: 11.96
-Episode 680 	 Average Score: 11.64
-Episode 690 	 Average Score: 11.59
-Episode 700 	 Average Score: 11.52
-Episode 710 	 Average Score: 11.55
-Episode 720 	 Average Score: 11.42
-Episode 730 	 Average Score: 10.99
-Episode 740 	 Average Score: 11.21
-Episode 750 	 Average Score: 11.22
-Episode 760 	 Average Score: 11.17
-Episode 770 	 Average Score: 11.05
-Episode 780 	 Average Score: 11.25
-Episode 790 	 Average Score: 11.31
-Episode 800 	 Average Score: 11.51
-Episode 810 	 Average Score: 11.21
-Episode 820 	 Average Score: 11.33
-Episode 830 	 Average Score: 11.51
-Episode 840 	 Average Score: 11.49
-Episode 850 	 Average Score: 11.51
-Episode 860 	 Average Score: 11.19
+
 Episode 870 	 Average Score: 11.36
+
 Episode 880 	 Average Score: 11.24
+
 Episode 890 	 Average Score: 11.27
+
 Episode 900 	 Average Score: 11.00
+
 Episode 910 	 Average Score: 11.29
+
 Episode 920 	 Average Score: 11.18
+
 Episode 930 	 Average Score: 11.07
-Episode 940 	 Average Score: 10.94
-Episode 950 	 Average Score: 10.90
-Episode 960 	 Average Score: 11.20
-Episode 970 	 Average Score: 11.44
-Episode 980 	 Average Score: 11.75
-Episode 990 	 Average Score: 11.97
-Episode 1000 	 Average Score: 12.04
-Episode 1010 	 Average Score: 12.02
+
+...
+
 Episode 1020 	 Average Score: 12.07
+
 Episode 1030 	 Average Score: 12.33
+
 Episode 1040 	 Average Score: 12.49
+
 Episode 1050 	 Average Score: 12.73
+
 Environment solved in 958 episodes! 	 Average Score: 13.00
 
 Total Training Time = 23.5 min
