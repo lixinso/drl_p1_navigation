@@ -16,9 +16,13 @@ A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
 0 - move forward.
+
 1 - move backward.
+
 2 - turn left.
+
 3 - turn right.
+
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
 ### Algorithm
@@ -54,10 +58,15 @@ When you are ready to submit your project, collect the following files and compr
 ### DQN Settings
 
 BUFFER_SIZE = int(1e5)  # replay buffer size
+
 BATCH_SIZE = 64         # minibatch size
+
 GAMMA = 0.99            # discount factor
+
 TAU = 1e-3              # for soft update of target parameters
+
 LR = 5e-4               # learning rate 
+
 UPDATE_EVERY = 4        # how often to update the network
 
 ### Result
